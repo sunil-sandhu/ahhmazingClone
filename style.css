@@ -1,0 +1,173 @@
+
+#supercut
+
+{ 
+    
+    position: fixed;
+    left: 0%;
+    top: 0%;
+    bottom: 0%;
+    right: 0%;
+    display: none;
+
+}
+
+
+#supercut iframe 
+
+{ position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-30%);
+   
+
+   /* width: relative;
+
+   */
+}
+
+
+#clicktosupercut 
+
+{  
+     
+    position: fixed;
+    left: 0.8vw;
+    bottom: 3.0vh;
+    width: 75px;
+    position: fixed;
+    left: 15px;
+    bottom: 26px;
+    width: 76px;
+    overflow: hidden;
+    -webkit-margin-start: -42px;
+    -webkit-padding-start: 40px;
+    cursor: pointer;
+
+
+ }
+
+
+
+#logoImg 
+
+{
+ width: 300px;
+        
+        }
+
+
+
+#photo4 
+
+{
+ 
+    position: fixed;
+    left: 15px;
+    bottom: 5px;
+    width: 100px;
+    cursor: pointer;
+
+   
+   }
+
+
+   #photo5 
+
+{
+ 
+    position: fixed;
+    right: 6px;
+    bottom: 18px;
+    width: 100px;
+    cursor: pointer;
+
+   
+   }
+
+
+
+#container 
+
+{
+  
+
+    position: absolute;
+    top: 48%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 300px;
+
+  
+}
+ 
+
+ #container .pic 
+ { 
+   width: 300px;
+   height:300px;
+   margin-top: -61px;
+  cursor: pointer;
+
+ }
+ 
+
+
+
+body
+{ 
+    background-color: #00ffa2; 
+
+}
+
+#pic2
+
+{
+  
+    display: none;
+
+}
+
+#pic3
+
+{
+  
+  display: none;
+  
+}
+
+audio
+
+{ 
+
+  display:none;
+
+}
+
+
+h1 {
+    font-size: 300%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    color: white;
+}
+
+#counter
+
+{ 
+
+    font-size: 600%;
+    font-family: 'Lato', sans-serif; 
+    font-weight: 900;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    color: white;
+    margin-top: -40px;
+
+}
+
+
